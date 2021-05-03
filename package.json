@@ -1,0 +1,16 @@
+{
+  "name": "zuri-task-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rmR": "rm -rf result",
+    "start": "npm run rmR && node index.js"
+  },
+  "keywords": [],
+  "author": "Vincent Iroleh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
